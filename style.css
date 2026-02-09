@@ -387,7 +387,7 @@ h1, h2, h3{
 
 .landing-phone{
   margin: 8px 0 4px;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 900;
   letter-spacing: 1px;
   color: rgba(255,255,255,.9);
@@ -396,13 +396,12 @@ h1, h2, h3{
 .landing-phone::after{
   content: " ☎ ";
   opacity: .85;
-  font-size: 11px;
 }
 
 .landing-phone::before{
   content: " ☎ ";
   opacity: .85;
-  font-size: 11px;
+
 }
 
 .landing-location{
@@ -410,7 +409,7 @@ h1, h2, h3{
   justify-content: center;   /* 🔥 center horizontally */
   margin-top: 6px;
   white-space: nowrap;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .landing-location a{
@@ -458,13 +457,13 @@ h1, h2, h3{
   color: #fff;
 }
 
-
 .landing-subtitle{
-  margin: 12px 0 0;
-  font-size: 18px;
-  font-weight: 700;
-  color: rgba(255,255,255,.86);
+  margin: 0;
+  font-size: 25px;
+  font-weight: 900;
+  color: #fff;
 }
+
 
 /* CTA */
 /* CTA buttons container */
