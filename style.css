@@ -800,7 +800,7 @@ button, .choice, .btn, a {
 }
 
 .hero-logo img {
-  height: 180px;           /* desktop size - increased */
+  height: 160px;           /* desktop size - increased */
   width: auto;
   display: block;
 }
@@ -814,6 +814,6 @@ button, .choice, .btn, a {
   }
 
   .hero-logo img {
-    height: 130px;
+    height: 140px;
   }
 }
